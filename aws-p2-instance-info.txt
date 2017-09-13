@@ -1,0 +1,5 @@
+securityGroupId=sg-c3405fb9
+subnetId=subnet-00fb3648
+instanceId=i-0c000fa0aea72efc8
+instanceUrl=ec2-54-148-64-188.us-west-2.compute.amazonaws.com
+Connect: ssh -i /Users/Fraser/.ssh/aws-key.pem ubuntu@ec2-54-148-64-188.us-west-2.compute.amazonaws.com
